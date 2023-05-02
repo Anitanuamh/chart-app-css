@@ -24,7 +24,7 @@ body{
 }
 .left-style{
   width: 450px;
-    height: 550px;
+    height: 580px;
     background:linear-gradient(-157deg,var(--LightMagenta),var(--LightViolet)) ;
     border-radius: 0px 0px 220px 220px;
     margin-left: -91px;
@@ -260,39 +260,3 @@ body{
   z-index: -1;
   
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
